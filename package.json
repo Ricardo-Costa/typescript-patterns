@@ -1,0 +1,24 @@
+{
+  "name": "typescript-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "observer": "npx ts-node ./observer/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ricardo-Costa/typescript-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ricardo-Costa/typescript-patterns/issues"
+  },
+  "homepage": "https://github.com/Ricardo-Costa/typescript-patterns#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}
