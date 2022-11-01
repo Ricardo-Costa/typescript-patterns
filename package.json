@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "observer": "npx ts-node ./observer/index.ts"
+    "observer": "npx ts-node ./observer/index.ts",
+    "builder": "npx ts-node ./builder/index.ts"
   },
   "repository": {
     "type": "git",
